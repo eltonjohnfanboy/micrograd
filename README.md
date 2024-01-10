@@ -1,2 +1,2 @@
 # micrograd
-Implementing Kapathy's micrograd from scratch
+Implementing Kapathy's micrograd from scratch.
