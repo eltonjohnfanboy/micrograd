@@ -1,2 +1,2 @@
 # micrograd
-Implementing Kapathy's micrograd from scratch.
+Implemented MicroGrad from scratch, following Andrej Karpathy's video tutorial :)
